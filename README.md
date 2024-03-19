@@ -1,6 +1,6 @@
 ## Sales Report :
 
-- **Project objective:**
+**Project objective:**
 Welcome to the Sales Report Project repository, dedicated to comprehensively analysing various aspects of business performance.
 
 **Reports:**<br/>
@@ -22,7 +22,7 @@ Welcome to the Sales Report Project repository, dedicated to comprehensively ana
 
 
 ## Financial Report:
-- **Objective:**
+**Objective:**
 Welcome to the Financial Report Repository, a comprehensive collection of financial analyses designed to provide insights into various aspects of business operations.
 
 **Reports:**<br/>
