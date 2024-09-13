@@ -4,11 +4,11 @@
 Welcome to the Sales Report Project repository, dedicated to comprehensively analysing various aspects of business performance.
 
 **Reports:**<br/>
-**1.** _[Customer Performance Report](https://github.com/Guruprasad79/Excel-Analytics/blob/main/Customer_performace_report_India.pdf)<br/>
+**1.** [Customer Performance Report](https://github.com/Guruprasad79/Excel-Analytics/blob/main/Customer_performace_report_India.pdf)<br/>
 &nbsp;&nbsp;&nbsp;**Objective:** Analyze customer behaviour and performance metrics.<br/>
 &nbsp;&nbsp;&nbsp;**Purpose:** Facilitate targeted marketing strategies and optimize customer relationship management.<br/>
 &nbsp;&nbsp;&nbsp;**Role:** Provide insights for tailoring marketing efforts, enhancing customer engagement, and strengthening customer relationships.<br/>
-**2.** _[Market Performance and Sales Targets](https://github.com/Guruprasad79/Excel-Analytics/blob/main/Market%20performace%20vs%20Target.pdf).<br/>
+**2.** [Market Performance and Sales Targets](https://github.com/Guruprasad79/Excel-Analytics/blob/main/Market%20performace%20vs%20Target.pdf).<br/>
 &nbsp;&nbsp;&nbsp;**Objective:** Evaluate and compare market trends with predefined sales targets.<br/>
 &nbsp;&nbsp;&nbsp;**Purpose:** Enhance strategic decision-making for market expansion and revenue growth.<br/>&nbsp;&nbsp;&nbsp;**Role:** Serve as a guide for business leaders in identifying opportunities, setting realistic targets, and aligning strategies for sustainable growth.<br/>
 **3.** [Top 10 Products by Net Sales](https://github.com/Guruprasad79/Excel-Analytics/blob/main/Top%2010%20Products%20by%20NS.pdf)<br/>
